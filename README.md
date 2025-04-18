@@ -1,13 +1,12 @@
 # Ronnesha-Hardy
-Hi! I'm currently transitioning into the field of Business Analytics, driven by a strong interest in data, strategy, and decision-making. I'm currently completing a Business Analytics Bootcamp where I'm gaining hands-on experience with tools like Excel, SQL, Tableau, and Python for data analysis.
+Hi! I'm currently transitioning into the field of Business Analytics, driven by a strong interest in data, strategy, and decision-making. I'm currently completing a Business Analytics Bootcamp where I'm gaining hands-on experience with tools like Excel, SQL, Tableau and Power BI for data analysis.
 
 While I may be new to this field, I'm deeply committed to building practical skills and growing my portfolio through real-world projects. I’m passionate about turning data into insights that drive smarter business decisions.
 
 🔍 Currently learning:
 
-Data visualization with Tableau
+Data visualization with Tableau and Power BI
 SQL for data querying
-Python for data analysis
 Business problem-solving with data
 📊 Looking forward to:
 
