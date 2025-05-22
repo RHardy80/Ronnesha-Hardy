@@ -19,3 +19,5 @@ Some fun facts:
 -As I have gotten older I have found my self enjoy reading any Marvel comic and most recently Invicible when I'm winding down for the night.
 -I have a love hate relationship with working out but if I'm going to pick any kind of cardio it has to be step aerobics or dancing. 
 -My goal for 2025 is to land my dream job in data.
+
+Feel free to contact me on Github or LinkedIn www.linkedin.com/in/ronnesha-hardy
